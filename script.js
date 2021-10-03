@@ -8,8 +8,8 @@ const calculaMedia = () => {
     var n3 = $('#nota3').val()
     var n4 = $('#nota4').val()
 
+    var n1Value = parseFloat(n1) 
     var n2Value = parseFloat(n2)
-    var n1Value = parseFloat(n1)
     var n3Value = parseFloat(n3)
     var n4Value = parseFloat(n4)
 
